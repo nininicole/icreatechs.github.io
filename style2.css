@@ -20,6 +20,12 @@
     border-bottom: 1px solid;
   }
 
+  nav li a:active {
+    border-bottom: 1px solid;
+    font-weight: bold;
+    
+  }
+
   nav li{
     list-style-type: none; 
     display:inline;
@@ -69,7 +75,7 @@ h1{
 
 input{
     width: 250px;
-    height: 25px;
+    height: 30px;
     border-radius: 10px;
     border: 1px;
     background-color: #EEEEEE ;
@@ -80,7 +86,7 @@ input{
 
 .btn{  
     width:263px;
-    height: 28px;
+    height: 33px;
     text-align: center;
     background-color: #222831;
     color: #fbfbfb;
