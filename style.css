@@ -42,6 +42,14 @@ div ul, ol {
   nav li a:hover{
     border-bottom: 1px solid;
   }
+  nav li a:visited{
+    border-bottom: 1px solid;
+    
+  }
+
+  nav li a{
+    color: #222831;
+  }
 
   nav li{
     list-style-type: none; 
